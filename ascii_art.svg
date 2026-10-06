@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 450 390" width="350px">
+  <style>
+    .terminal-bg {
+      fill: #0d1117;
+      rx: 8px;
+    }
+    .ascii-text {
+      font-family: monospace;
+      font-size: 11px;
+      fill: #c9d1d9;
+      white-space: pre;
+    }
+    .line {
+      opacity: 0;
+      animation: fadeIn 0.05s forwards;
+    }
+    @keyframes fadeIn {
+      to { opacity: 1; }
+    }
+  </style>
+
+  <rect width="100%" height="100%" class="terminal-bg" />
+  
+  <g transform="translate(15, 20)">
+    <text class="ascii-text">
+      <tspan x="0" dy="12" class="line" style="animation-delay: 0.0s;">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+      <tspan x="0" dy="12" class="line" style="animation-delay: 0.02s;">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#=@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+      <tspan x="0" dy="12" class="line" style="animation-delay: 0.04s;">@@@@@@@@@@@@@@@@@@@#*==++===++==+++=++=@@@@@@@@@@@@@@@@@@@@@</tspan>
+      <tspan x="0" dy="12" class="line" style="animation-delay: 0.06s;">@@@@@@@@@@@@@@@%+++++=*++++++++++++++=*+++=+@@@@@@@@@@@@@@@@</tspan>
+      <tspan x="0" dy="12" class="line" style="animation-delay: 0.08s;">@@@@@@@@@@@@===++==#++++++++++++++++++++++++===@@@@@@@@@@@@@</tspan>
+      <tspan x="0" dy="12" class="line" style="animation-delay: 0.1s;">@@@@@@@@@@@*#===+++++++++++++++++++++++++++++==++@@@@@@@@@@@</tspan>
+      <tspan x="0" dy="12" class="line" style="animation-delay: 0.12s;">@@@@@@@@@@@==+=++++++++++++==+++++++++++++++++=#=%=@@@@@@@@@</tspan>
+      <tspan x="0" dy="12" class="line" style="animation-delay: 0.14s;">@@@@@@@@%=====+====+++++++=+++++++++++++++======#-@@@@@@@@@@</tspan>
+      <tspan x="0" dy="12" class="line" style="animation-delay: 0.16s;">@@@@@@#=====*-====++++*+++=#+++==++@+=+=+++=++===+=@@@@@@@@@</tspan>
+      <tspan x="0" dy="12" class="line" style="animation-delay: 0.18s;">@@@@@@@@%*+===========*===+==++=++++@#++++++++====+%@@@@@@@@</tspan>
+      <tspan x="0" dy="12" class="line" style="animation-delay: 0.2s;">@@@@@@@@#@%*=======%==%===*#*===+++++++==++=#=++=====*##@@@@</tspan>
+      <tspan x="0" dy="12" class="line" style="animation-delay: 0.22s;">@@@@@@@@@@======%#@@%==*=-%====+++++++*@+*++===+====%##@@@@@</tspan>
+      <tspan x="0" dy="12" class="line" style="animation-delay: 0.24s;">@@@@@@@@@#==@==*%%+***@#%--%===@+++++==++=*===+========%%@@@</tspan>
+      <tspan x="0" dy="12" class="line" style="animation-delay: 0.26s;">@@@@@@@@@@@@=@#+@@@#@@*@@@%@-=====#============+++%====#@@@@</tspan>
+      <tspan x="0" dy="12" class="line" style="animation-delay: 0.28s;">@@@@@@@@@@#@@@@@#@#@@*#%@@%@=========+===-=========@%@@@@@@@</tspan>
+      <tspan x="0" dy="12" class="line" style="animation-delay: 0.3s;">@@@@@@@@@@@@@#@@@@@@@@@@@@*+=======@#%@%==+@=@-=====+@@@@@@@</tspan>
+      <tspan x="0" dy="12" class="line" style="animation-delay: 0.32s;">@@@@@@@@@@@@@@@@@@@@@@@@@@%%@@@%@-@*%@@@@@@@@@@@=+@#=@@@@@@@</tspan>
+      <tspan x="0" dy="12" class="line" style="animation-delay: 0.34s;">@@@@@@@@@@@@@%@@@@@@@@@@@@@@@@@@#***@@@@@@@@@@@@@#@@@@@@@@@@</tspan>
+      <tspan x="0" dy="12" class="line" style="animation-delay: 0.36s;">@@@@@@@@@@@@@@@@%@@@@@@@@@@@@@@#%**#%@@@@@@@@@##@@@@@@@@@@@@</tspan>
+      <tspan x="0" dy="12" class="line" style="animation-delay: 0.38s;">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#**@*@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+      <tspan x="0" dy="12" class="line" style="animation-delay: 0.4s;">@@@@@@@@@@@@#@@@@@@@@@@@@%*+##@@+#@@%@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+      <tspan x="0" dy="12" class="line" style="animation-delay: 0.42s;">@@@@@@@@@@@@@@@@@@@@@@#@@*+@@@@@@@@@@@@%@@@@@@@:@@@@@@@@@@@@</tspan>
+      <tspan x="0" dy="12" class="line" style="animation-delay: 0.44s;">@@@@@@@@@@@@@@@@@@@@@@@@*#@@@@@@@@@#@@@@@@@@=#@@@@@@@@@@@@@@</tspan>
+      <tspan x="0" dy="12" class="line" style="animation-delay: 0.46s;">@@@@@@@@@@@@@@@@@@@@@@@@@#@@@@@@@#@@@@@@@@@@=+=+=*-+@@@@@@@@</tspan>
+      <tspan x="0" dy="12" class="line" style="animation-delay: 0.48s;">@@@@@@@@@@@@@@@@@@@@@@@@@@@#@@@@@@@@@@@@@+=@@*==+++==*@@%@@@</tspan>
+      <tspan x="0" dy="12" class="line" style="animation-delay: 0.5s;">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#@@@@@@+@@+@@=+@@@@@@%*%@@@@+%@</tspan>
+      <tspan x="0" dy="12" class="line" style="animation-delay: 0.52s;">@@@@@@@@@@@@@@@@@@@@@@@@@%*@@@@@*@+*@#=@=+@@=+=%@@@@@#=**@@+</tspan>
+      <tspan x="0" dy="12" class="line" style="animation-delay: 0.54s;">@@@@@@@@@@@@@@@@@@@@@@@@@@*%@@@@@@@@#+@#@@=+@@-++++=+=@@@=+@</tspan>
+      <tspan x="0" dy="12" class="line" style="animation-delay: 0.56s;">@@@@@@@@@@@@@@@@@@@@@@@#@+@*==+%===@@@#*@==@-++++++=++===@@=</tspan>
+      <tspan x="0" dy="12" class="line" style="animation-delay: 0.58s;">@@@@@@@@@@@@@@@@@@@@@@@@:@#+=========@@@==@-+===++=========@</tspan>
+    </text>
+  </g>
+</svg>
