@@ -24,4 +24,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crlossrs-dev&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
+### 🚗 Mi año en GitHub
+
+<img src="dist/drive.svg" width="100%" alt="Coche recorriendo mi gráfica de contribuciones">
+
 </div>
